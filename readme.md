@@ -263,8 +263,6 @@ Or press `Ctrl+C` for graceful shutdown.
 - Circuit breaker for safety
 - Daily P&L tracking
 - Extensible strategy engine
-
-### 🚧 MVP Requirements (In Progress)
 - **Auto-reconnection logic** - Handles IB disconnections automatically
 - **Emergency kill switch** - File-based stop mechanism
 - **Paper trading mode** - Safe testing without real money
