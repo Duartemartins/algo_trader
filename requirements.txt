@@ -13,3 +13,4 @@ rich
 matplotlib
 twilio
 pytest
+asyncio
