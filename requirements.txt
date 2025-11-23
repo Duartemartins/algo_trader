@@ -1,0 +1,15 @@
+ib_insync
+pandas
+numpy
+aiosqlite
+requests
+loguru
+fastapi
+uvicorn
+pyarrow
+schedule
+python-dotenv
+rich
+matplotlib
+twilio
+pytest

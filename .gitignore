@@ -1,0 +1,42 @@
+# Environment
+.env
+venv/
+env/
+ENV/
+
+# Database
+*.db
+*.db-journal
+data/
+
+# Logs
+logs/
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data files
+*.csv
+*.parquet
+
+# macOS
+.DS_Store
